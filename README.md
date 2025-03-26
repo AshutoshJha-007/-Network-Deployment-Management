@@ -48,7 +48,6 @@ This project documents the setup and management of a high-speed **ISP network in
 ## Future Enhancements
 - Implement **BGP routing** for better traffic control.
 - Set up **redundant network paths** for improved uptime.
-- Automate network monitoring with **Prometheus & Grafana**.
 
 ---
 **Maintained by:** [Ashutosh Kumar Jha](https://github.com/AshutoshJha-007)
